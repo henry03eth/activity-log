@@ -18,16 +18,106 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged a PR in a private repo
-2. 🔀 Merged [PR #17](https://github.com/Wiresense/wiresense.js/pull/17) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-3. 🗑️ Deleted a branch `depfu/batch_all/npm/2024-10-07` in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-4. 🔎 Reviewed [PR #17](https://github.com/Wiresense/wiresense.js/pull/17) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-5. 🔀 Merged [PR #33](https://github.com/Wiresense/frontend/pull/33) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-6. 🔀 Merged [PR #16](https://github.com/Wiresense/wiresense.js/pull/16) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-7. 🔎 Reviewed [PR #16](https://github.com/Wiresense/wiresense.js/pull/16) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-8. 🔀 Merged [PR #31](https://github.com/Wiresense/frontend/pull/31) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-9. 📝 Committed to [Wiresense/frontend](https://github.com/Wiresense/frontend/commit/c3033c6dd92c6ba79069aec4be284256be551447)
-10. 🔎 Reviewed [PR #31](https://github.com/Wiresense/frontend/pull/31) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+1. 📝 Committed to a private repo
+2. 📝 Committed to a private repo
+3. 📝 Committed to a private repo
+4. 📝 Committed to a private repo
+5. 📝 Committed to a private repo
+6. 📝 Committed to [henry03eth/activity-log](https://github.com/henry03eth/activity-log/commit/b5f010c97003f5bcd32654dc32edebbf77b3f4e9)
+7. 📝 Committed to [henry03eth/activity-log](https://github.com/henry03eth/activity-log/commit/188da07381fcc96d421d335798c545b181068751)
+8. 📝 Committed to [henry03eth/activity-log](https://github.com/henry03eth/activity-log/commit/689df93246b1bfba57294b04fda47cec73f14e37)
+9. 📝 Committed to [henry03eth/activity-log](https://github.com/henry03eth/activity-log/commit/9e06649c1bd2c3914b8c1d23854afca93020dcf7)
+10. 📝 Committed to a private repo
+11. 📝 Committed to a private repo
+12. 📝 Committed to a private repo
+13. 📝 Committed to a private repo
+14. 📝 Committed to [henry03eth/activity-log](https://github.com/henry03eth/activity-log/commit/88eebc2ecf122d021d8abae591b7ca9642bd6196)
+15. 📝 Committed to a private repo
+16. 📝 Committed to [henry03eth/activity-log](https://github.com/henry03eth/activity-log/commit/97117a7f398bfccc1d11be5135c4753b405612b3)
+17. 🍴 Forked [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
+18. 📝 Committed to a private repo
+19. 🎉 Created a new private repository
+20. 📝 Committed to a private repo
+21. 📝 Committed to a private repo
+22. 🔀 Merged a PR in a private repo
+23. 📥 Opened a PR in a private repo
+24. 📝 Committed to a private repo
+25. 📝 Committed to a private repo
+26. 🆕 Opened an issue in a private repo
+27. 🆕 Opened an issue in a private repo
+28. ➕ Created a new branch `main` in a private repo
+29. 🎉 Created a new private repository
+30. 📝 Committed to a private repo
+31. 📝 Committed to a private repo
+32. 📝 Committed to a private repo
+33. 📝 Committed to a private repo
+34. 📝 Committed to a private repo
+35. 📝 Committed to [henry03eth/activity-log](https://github.com/henry03eth/activity-log/commit/b5f010c97003f5bcd32654dc32edebbf77b3f4e9)
+36. 📝 Committed to [henry03eth/activity-log](https://github.com/henry03eth/activity-log/commit/188da07381fcc96d421d335798c545b181068751)
+37. 📝 Committed to [henry03eth/activity-log](https://github.com/henry03eth/activity-log/commit/689df93246b1bfba57294b04fda47cec73f14e37)
+38. 📝 Committed to [henry03eth/activity-log](https://github.com/henry03eth/activity-log/commit/9e06649c1bd2c3914b8c1d23854afca93020dcf7)
+39. 📝 Committed to a private repo
+40. 📝 Committed to a private repo
+41. 📝 Committed to a private repo
+42. 📝 Committed to a private repo
+43. 📝 Committed to [henry03eth/activity-log](https://github.com/henry03eth/activity-log/commit/88eebc2ecf122d021d8abae591b7ca9642bd6196)
+44. 📝 Committed to a private repo
+45. 📝 Committed to [henry03eth/activity-log](https://github.com/henry03eth/activity-log/commit/97117a7f398bfccc1d11be5135c4753b405612b3)
+46. 🍴 Forked [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
+47. 📝 Committed to a private repo
+48. 🎉 Created a new private repository
+49. 📝 Committed to a private repo
+50. 📝 Committed to a private repo
+51. 🔀 Merged a PR in a private repo
+52. 📥 Opened a PR in a private repo
+53. 📝 Committed to a private repo
+54. 📝 Committed to a private repo
+55. 🆕 Opened an issue in a private repo
+56. 🆕 Opened an issue in a private repo
+57. ➕ Created a new branch `main` in a private repo
+58. 🎉 Created a new private repository
+59. 📝 Committed to a private repo
+60. 📝 Committed to a private repo
+61. 📝 Committed to a private repo
+62. 📝 Committed to a private repo
+63. 📝 Committed to a private repo
+64. 📝 Committed to [henry03eth/activity-log](https://github.com/henry03eth/activity-log/commit/b5f010c97003f5bcd32654dc32edebbf77b3f4e9)
+65. 📝 Committed to [henry03eth/activity-log](https://github.com/henry03eth/activity-log/commit/188da07381fcc96d421d335798c545b181068751)
+66. 📝 Committed to [henry03eth/activity-log](https://github.com/henry03eth/activity-log/commit/689df93246b1bfba57294b04fda47cec73f14e37)
+67. 📝 Committed to [henry03eth/activity-log](https://github.com/henry03eth/activity-log/commit/9e06649c1bd2c3914b8c1d23854afca93020dcf7)
+68. 📝 Committed to a private repo
+69. 📝 Committed to a private repo
+70. 📝 Committed to a private repo
+71. 📝 Committed to a private repo
+72. 📝 Committed to [henry03eth/activity-log](https://github.com/henry03eth/activity-log/commit/88eebc2ecf122d021d8abae591b7ca9642bd6196)
+73. 📝 Committed to a private repo
+74. 📝 Committed to [henry03eth/activity-log](https://github.com/henry03eth/activity-log/commit/97117a7f398bfccc1d11be5135c4753b405612b3)
+75. 🍴 Forked [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
+76. 📝 Committed to a private repo
+77. 🎉 Created a new private repository
+78. 📝 Committed to a private repo
+79. 📝 Committed to a private repo
+80. 🔀 Merged a PR in a private repo
+81. 📥 Opened a PR in a private repo
+82. 📝 Committed to a private repo
+83. 📝 Committed to a private repo
+84. 🆕 Opened an issue in a private repo
+85. 🆕 Opened an issue in a private repo
+86. ➕ Created a new branch `main` in a private repo
+87. 🎉 Created a new private repository
+88. 📝 Committed to a private repo
+89. 📝 Committed to a private repo
+90. 📝 Committed to a private repo
+91. 📝 Committed to a private repo
+92. 📝 Committed to a private repo
+93. 📝 Committed to [henry03eth/activity-log](https://github.com/henry03eth/activity-log/commit/b5f010c97003f5bcd32654dc32edebbf77b3f4e9)
+94. 📝 Committed to [henry03eth/activity-log](https://github.com/henry03eth/activity-log/commit/188da07381fcc96d421d335798c545b181068751)
+95. 📝 Committed to [henry03eth/activity-log](https://github.com/henry03eth/activity-log/commit/689df93246b1bfba57294b04fda47cec73f14e37)
+96. 📝 Committed to [henry03eth/activity-log](https://github.com/henry03eth/activity-log/commit/9e06649c1bd2c3914b8c1d23854afca93020dcf7)
+97. 📝 Committed to a private repo
+98. 📝 Committed to a private repo
+99. 📝 Committed to a private repo
+100. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 
 ## 📖Usage
